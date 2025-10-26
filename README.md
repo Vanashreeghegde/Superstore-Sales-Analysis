@@ -70,6 +70,11 @@ The Superstore dataset reveals valuable business insights:
 
 ---
 
+## 🎯 Interactive Notebook
+You can explore the full interactive version of this project on **Google Colab** using the link below:
+
+🔗 [Click here to open in Google Colab](https://colab.research.google.com/drive/1SRPzvELPnwRc3I8S-k4rbBFKJOvTYnb7?usp=sharing)
+
 ## 🌐 Connect With Me
 👩‍💻 **Author:** Vanashree G. Hegde  
 💼 **LinkedIn:** [https://www.linkedin.com/in/vanashreehegde/](https://www.linkedin.com/in/vanashreehegde/)  
